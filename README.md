@@ -1,8 +1,9 @@
 <img src="https://github.com/ghost-yuwon/ghost-yuwon/blob/main/banner.png" alt="Profile Banner" />
 
 <div align="center">
-  <p>Visitor count</p>
+  <p><strong>Visitors:</strong></p>
   <img src="https://profile-counter.glitch.me/ghost-yuwon/count.svg" alt="Visitor Count" />
+  <br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ghost-yuwon.ghost-yuwon&title=Visitors&style=flat-square" />
 </div>
 
