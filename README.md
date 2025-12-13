@@ -3,6 +3,7 @@
 <div align="center">
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/ghost-yuwon/count.svg" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ghost-yuwon.ghost-yuwon&title=Visitors&style=flat-square" />
 </div>
 
 ---
