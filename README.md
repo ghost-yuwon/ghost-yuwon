@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/ghost-yuwon/count.svg" alt="Visitor Count" />
+</div>
 
-<!--
-**ghost-yuwon/ghost-yuwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Carl+Gaudenz+Nuqui!;" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A Computer Science student aspiring to become a web developer, passionate about problem-solving, system design, and building practical software solutions.
+
+---
+
+- 🌱 I’m currently learning **Java, Python, Data Structures and Algorithms, and Operating Systems**
+- 🎯 Goal: **To become a skilled web developer and software engineer**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ghost-yuwon&show_icons=true&theme=transparent" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ghost-yuwon&theme=transparent" />
+</div>
+
+---
+
+## 🎯 Interests & Hobbies
+
+- 🏍️ Motorcycles  
+- 🏀 Basketball  
+- ♟️ Chess  
+
+---
+
+✨ *Always learning, always improving.*
