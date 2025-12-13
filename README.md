@@ -1,3 +1,5 @@
+<img src="https://github.com/ghost-yuwon/ghost-yuwon/blob/main/banner.png" alt="Profile Banner" />
+
 <div align="center">
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/ghost-yuwon/count.svg" alt="Visitor Count" />
